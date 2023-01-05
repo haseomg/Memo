@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     String memoWrite;
     String TAG = "----------Main Activity----------";
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
